@@ -7,3 +7,20 @@
     flex-wrap: wrap;
     
 }
+
+h1 {
+    text-align: center;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif
+}
+
+.reset {
+    display: block;
+    margin: 4px auto;
+}
+
+.buttons {
+    display: flex;
+    justify-content: center;
+    gap: 12px;
+}
+
